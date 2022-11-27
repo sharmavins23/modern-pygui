@@ -5,7 +5,8 @@ This is a reimplementation of
 modern-looking graphical user interface in Python, with CustomTkinter.
 
 The structure will be my basic foray into working with Python GUIs for
-deployable applications.
+deployable applications. More importantly, it will be a good comparison to
+Electron for my preferred desktop GUI application choice.
 
 # License TL;DR
 
